@@ -7,3 +7,8 @@ install_geopandas:
 	@pip install shapely
 	@pip install geopandas
 	@echo "Done"
+
+install_pandas:
+	@echo "Installing pandas"
+	@pip install xlrd
+	@echo "Done"
