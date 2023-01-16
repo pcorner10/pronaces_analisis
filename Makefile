@@ -12,3 +12,10 @@ install_pandas:
 	@echo "Installing pandas"
 	@pip install xlrd
 	@echo "Done"
+
+install_tools:
+	@echo "Installing tools"
+	@pip install seaborn
+	@pip install rasterio
+	@pip install contextily
+	@echo "Done"
