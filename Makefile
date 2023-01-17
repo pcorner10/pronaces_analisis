@@ -18,4 +18,5 @@ install_tools:
 	@pip install seaborn
 	@pip install rasterio
 	@pip install contextily
+	@pip install -U scikit-learn
 	@echo "Done"
