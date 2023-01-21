@@ -20,4 +20,5 @@ install_tools:
 	@pip install contextily
 	@pip install -U scikit-learn
 	@pip install openpyxl
+	@pip install xlrd
 	@echo "Done"
