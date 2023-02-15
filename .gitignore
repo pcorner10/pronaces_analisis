@@ -1,1 +1,10 @@
 *.tif
+
+*.pdf
+
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.rar
