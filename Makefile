@@ -8,11 +8,6 @@ install_geopandas:
 	@pip install geopandas
 	@echo "Done"
 
-install_pandas:
-	@echo "Installing pandas"
-	@pip install xlrd
-	@echo "Done"
-
 install_tools:
 	@echo "Installing tools"
 	@pip install seaborn
