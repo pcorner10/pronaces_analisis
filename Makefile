@@ -16,4 +16,5 @@ install_tools:
 	@pip install -U scikit-learn
 	@pip install openpyxl
 	@pip install xlrd
+	@make install_geopandas
 	@echo "Done"
